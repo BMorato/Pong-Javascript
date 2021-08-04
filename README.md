@@ -1,5 +1,5 @@
 # Pong-Javascript
-# Jogo clássico Pong desenvolvido em JavaScript 
+# Jogo clássico Pong em JavaScript 🏓
 
 
 Introdução ao JavaScript desenvolvendo um jogo clássico da década de 70, o Pong. Desevolvimento webb feito através do P5js.
